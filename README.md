@@ -1,4 +1,4 @@
-This is just a map generator that I programmed (with heavy use of codex) to make some project aspects easier to implement.
+This is just a map generator that I made to make some project aspects easier to implement.
 Run map_production.py - this is the main file
 Small descriptions in the pop-up window.
 You can drag cursor across the blocks to change their colours.
