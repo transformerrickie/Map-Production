@@ -5,4 +5,10 @@ You can drag cursor across the blocks to change their colours.
 You can then save the screen shot in the file of which you can send onto the gc.
 Lemme know if this is useful, or any changes you want me to make.
 
+Controls:
+left-click to colour in (grey) - obstacles
+right-click to uncolour (or colour in white).
+
+Buttons should be self explanatory...
+
 Made my Rickie
